@@ -1,6 +1,8 @@
 
 
 
+require('dotenv').config();
+
 const TOKEN = process.env.TOKEN || "YOUR_BOT_TOKEN_HERE";
 const PANEL_CHANNEL_ID = "1478293006485426279";
 const OPEN_CATEGORY_ID = "1478293077809561681";
