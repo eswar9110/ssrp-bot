@@ -1,0 +1,50 @@
+{
+  "tickets": [
+    {
+      "userId": "1287017311626068052",
+      "channelId": "1478294762959274004",
+      "category": "report",
+      "status": "closed"
+    },
+    {
+      "userId": "1287017311626068052",
+      "channelId": "1478298408790921318",
+      "type": "support",
+      "status": "closed",
+      "createdAt": "2026-03-03T07:50:05.607Z",
+      "closedAt": "2026-03-03T07:50:13.110Z"
+    },
+    {
+      "userId": "1287017311626068052",
+      "channelId": "1478425094199050414",
+      "type": "report",
+      "status": "closed",
+      "createdAt": "2026-03-03T16:13:29.207Z",
+      "closedAt": "2026-03-03T16:13:49.433Z"
+    },
+    {
+      "userId": "1287017311626068052",
+      "channelId": "1478426286568378572",
+      "type": "other",
+      "status": "closed",
+      "createdAt": "2026-03-03T16:18:13.526Z",
+      "closedAt": "2026-03-03T16:18:23.447Z"
+    },
+    {
+      "userId": "1287017311626068052",
+      "channelId": "1478428539706544252",
+      "type": "other",
+      "status": "closed",
+      "createdAt": "2026-03-03T16:27:10.638Z",
+      "closedAt": "2026-03-03T16:27:18.756Z"
+    },
+    {
+      "userId": "1287017311626068052",
+      "channelId": "1478429133993152605",
+      "type": "report",
+      "status": "closed",
+      "createdAt": "2026-03-03T16:29:32.362Z",
+      "closedAt": "2026-03-03T16:29:39.045Z"
+    }
+  ]
+}

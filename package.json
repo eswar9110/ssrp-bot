@@ -1,0 +1,17 @@
+{
+  "name": "moonlight-main-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Ticket-Bot/index.js",
+    "dev": "node Ticket-Bot/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
